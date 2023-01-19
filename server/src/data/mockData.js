@@ -1,5 +1,3 @@
-// add more items to the array
-
 const items = [
 	{
 		name: 'Flex on Java',
